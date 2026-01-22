@@ -11,7 +11,6 @@ Here are the files that I edited in each of the Onboardings:
         result_buffer.sv
         controller.sv
         top_lvl.sv
-    
     Design Verification:
         calc_driver.svh
         calc_monitor.svh
